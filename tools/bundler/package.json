@@ -1,0 +1,8 @@
+{
+  "name": "@pegjs/bundler",
+  "version": "3.2.0",
+  "private": true,
+  "bin": {
+    "bundle": "bundler.js"
+  }
+}
